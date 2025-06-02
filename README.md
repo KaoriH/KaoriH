@@ -6,3 +6,4 @@ Open to remote junior opportunities.
 
 🌱 Currently learning: Apex, SOQL, Lightning Web Components  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kaori-heberle/)
+🔗 [My Salesforce Trailblazer Profile](www.salesforce.com/trailblazer/ii4qadipncxwh4lvhi)
